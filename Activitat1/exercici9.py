@@ -11,4 +11,3 @@ if n3 > n1 and n3 > n2:
     print("El numero més gran es " + n3)
 else:
     print("Tots el numeros són iguals")
-    
