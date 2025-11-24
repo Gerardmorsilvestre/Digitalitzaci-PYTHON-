@@ -1,3 +1,4 @@
+#5
 a = input("Dona'm una paraula:")
 frequencia = {}
 

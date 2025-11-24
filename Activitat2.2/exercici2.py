@@ -1,4 +1,4 @@
-#1
+#3
 capital_pais = {
     "Espanya": "Madrid",
     "França": "París",
@@ -7,7 +7,7 @@ capital_pais = {
 print("Capital d'Espanya és:", capital_pais["Espanya"])
 print("Capital d'Espanya és:", capital_pais["França"])
 print("Capital d'Espanya és:", capital_pais["Itàlia"])
-#2
+#4
 a = input("Introdueix el nom d'un país: ")
 if a in capital_pais:
     print("La capital de", a, "és:", capital_pais[a])
